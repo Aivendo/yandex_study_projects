@@ -7,6 +7,6 @@ _______
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование рынка компьютерных игр](game_market_research)| | *pandas*, *matplotlib*, *numpy*, *scipy* |
-| [Исследование мобильного приложения интернет-магазина](mobile_application_research_ab_test) | | *pandas* |
-| [Исследование мобильного приложения для сайта объявлений](mobile_application_user_groups) | | *pandas* |
+| [Исследование мобильного приложения интернет-магазина](mobile_application_research_ab_test) | | *pandas*, *matplotlib*, *plotly*, *seaborn*, *numpy*, *math*, *scipy* |
+| [Исследование мобильного приложения для сайта объявлений](mobile_application_user_groups) | Выделение сегментов пользователей для управления вовлеченностью (адоптация приложение под целевую и смежные аудитории) | *pandas*, *matplotlib*, *plotly*, *seaborn*, *numpy*, *math*, *scipy*, *sklearn* |
 
